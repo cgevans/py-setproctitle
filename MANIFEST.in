@@ -1,0 +1,5 @@
+include HISTORY
+include COPYRIGHT
+include src/*.c
+include src/*.h
+include tests/*.py
